@@ -62,3 +62,5 @@
 
 # # Usage
 # filter_lines('data.txt', 'filtered.txt')
+
+# Now Lets create a basic file handling project.
