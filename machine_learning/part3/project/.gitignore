@@ -1,0 +1,62 @@
+# Python
+*.py[cod]
+*$py.class
+__pycache__/
+.pytest_cache/
+.pyre/
+
+# Virtual environments
+venv/
+ENV/
+env/
+myenv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.sqlite
+*.db
+*.h5
+*.hdf5
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS
+.DS_Store
+
+# Logs and runtime files
+*.log
+*.pot
+*.pyc
+*~
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Streamlit cache
+.streamlit/
+
+# Python environment markers
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore compiled binaries
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Backup files
+*.bak
+*.tmp
+*.swp
