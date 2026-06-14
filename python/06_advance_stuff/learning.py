@@ -100,3 +100,68 @@
 # things. You understood how these things work.
 # There are third party packages as well like numpy, pandas,
 # matplotlib etc. and we have to install all of these.
+
+# names = ['krishna', 'Khilendr', 'Manish']
+# for index, name in enumerate(names):
+#     print(f'Index {index}: {name}')
+
+# names = ['Alice', 'Bob', 'Charlie']
+# scores = [85, 92, 78]
+
+# zipped = zip(names, scores) # Return object
+# print(list(zipped))
+
+# Tuple Unpacking
+
+# tuple1 = (10,20,30,40,50)
+# first, second, *third, five = tuple1
+# print(first)
+# print(second)
+# print(third)
+# print(five)
+
+# from abc import ABC, abstractmethod
+
+# from collections import Counter
+
+# # Initialize with an iterable
+# letters = Counter("banana")
+# print(letters)  
+# # Output: Counter({'a': 3, 'n': 2, 'b': 1})
+
+# # Get a count of a missing element
+# print(letters["z"])  
+# # Output: 0
+
+# # Get the top 2 most common elements
+# print(letters.most_common(2))  
+# # Output: [('a', 3), ('n', 2)]
+
+# from collections import defaultdict
+
+# # Use 'list' as the factory function
+# grouped_data = defaultdict(list)
+
+# # Automatically creates an empty list for a new key and appends to it
+# grouped_data["fruits"].append("apple")
+# grouped_data["fruits"].append("mango")
+
+# print(grouped_data)  
+# # Output: defaultdict(<class 'list'>, {'fruits': ['apple', 'mango']})
+
+# from collections import deque
+
+# # Initialize a deque
+# queue = deque(["middle"])
+
+# # Fast additions to both ends
+# queue.append("right")
+# queue.appendleft("left")
+# print(queue)  
+# # Output: deque(['left', 'middle', 'right'])
+
+# # Fast removals from both ends
+# queue.popleft()
+# queue.pop()
+# print(queue)  
+# # Output: deque(['middle'])
