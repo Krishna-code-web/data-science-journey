@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "Category": "Food",
+        "Amount": 100.0,
+        "Date": "2026-06-15"
+    },
+    {
+        "id": 3,
+        "Category": "Shopping",
+        "Amount": 1000.0,
+        "Date": "2026-06-15"
+    },
+    {
+        "id": 4,
+        "Category": "Movie",
+        "Amount": 5000.0,
+        "Date": "2026-06-15"
+    }
+]
