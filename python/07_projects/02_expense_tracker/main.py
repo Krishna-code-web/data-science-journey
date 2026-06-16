@@ -3,7 +3,6 @@ from datetime import date
 
 FILE_NAME = "expenses.json"
 
-
 def get_all_expenses() -> list:
     try:
         with open(FILE_NAME, "r") as file:

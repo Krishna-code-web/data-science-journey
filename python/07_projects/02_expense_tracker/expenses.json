@@ -1,20 +1,26 @@
 [
     {
         "id": 1,
-        "Category": "Food",
-        "Amount": 100.0,
-        "Date": "2026-06-15"
+        "Category": "PG Rent",
+        "Amount": 10000.0,
+        "Date": "2026-06-16"
+    },
+    {
+        "id": 2,
+        "Category": "PG Rent",
+        "Amount": 10000.0,
+        "Date": "2026-06-16"
     },
     {
         "id": 3,
-        "Category": "Shopping",
-        "Amount": 1000.0,
-        "Date": "2026-06-15"
+        "Category": "Tuition Fees",
+        "Amount": 8000.0,
+        "Date": "2026-06-16"
     },
     {
         "id": 4,
-        "Category": "Movie",
+        "Category": "Miscallenous",
         "Amount": 5000.0,
-        "Date": "2026-06-15"
+        "Date": "2026-06-16"
     }
 ]
