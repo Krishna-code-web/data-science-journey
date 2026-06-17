@@ -1,0 +1,6 @@
+
+1. CSE students have highest average marks.
+2. Riya scored highest marks.
+3. IT branch has highest placement percentage.
+4. Average package is 6.5 LPA.
+5. Students with attendance below 85% tend to score lower.

@@ -1,0 +1,11 @@
+StudentID,Name,Gender,Age,Branch,Marks,City
+101,Krishna,M,20,CSE,89,Delhi
+102,Rahul,M,21,CSE,76,Mumbai
+103,Priya,F,20,IT,92,Pune
+104,Anjali,F,22,ECE,85,Delhi
+105,Aman,M,21,IT,78,Jaipur
+106,Riya,F,20,CSE,95,Mumbai
+107,Arjun,M,22,ECE,67,Delhi
+108,Sneha,F,21,IT,88,Pune
+109,Karan,M,20,CSE,81,Mumbai
+110,Neha,F,22,ECE,90,Jaipur
