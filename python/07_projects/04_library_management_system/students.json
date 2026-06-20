@@ -1,0 +1,28 @@
+[
+    {
+        "student_id": 201,
+        "name": "Krishna Gupta",
+        "branch": "CSE",
+        "issued_books": [
+            101,
+            101,
+            104
+        ]
+    },
+    {
+        "student_id": 202,
+        "name": "Mayank Gupta",
+        "branch": "AI",
+        "issued_books": [
+            101
+        ]
+    },
+    {
+        "student_id": 203,
+        "name": "Manav",
+        "branch": "CSe",
+        "issued_books": [
+            101
+        ]
+    }
+]

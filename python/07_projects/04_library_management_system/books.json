@@ -1,0 +1,20 @@
+[
+    {
+        "book_id": 101,
+        "title": "Python for Data Science",
+        "author": "Joel Grus",
+        "copies_available": 1
+    },
+    {
+        "book_id": 102,
+        "title": "Data Science",
+        "author": "Joel Grus",
+        "copies_available": 5
+    },
+    {
+        "book_id": 104,
+        "title": "Flying Birds",
+        "author": "krishna",
+        "copies_available": 9
+    }
+]
