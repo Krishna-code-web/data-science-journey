@@ -1,11 +1,15 @@
 import streamlit as st 
 import pandas as pd
 import joblib
+from pathlib import Path
+
+# Get the directory where app.py lives
+BASE_DIR = Path(__file__).parent
 
 # Load saved model, scaler, and expected columns
-model = joblib.load("KNN_heart.pkl")
-scaler = joblib.load("scaler.pkl")
-expected_columns = joblib.load("columns.pkl")
+model = joblib.load(BASE_DIR / "KNN_heart.pkl")
+scaler = joblib.load(BASE_DIR / "scaler.pkl")
+expected_columns = joblib.load(BASE_DIR / "columns.pkl")
 
 st.title("Heart Stroke Prediction")
 st.markdown("Provide the following details to check your heart stroke risk:")
