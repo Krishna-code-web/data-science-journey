@@ -1,6 +1,8 @@
 __pycache__/
 myenv/
 .myenv/
+venv/
+.venv/
 env/
 .env/
 
