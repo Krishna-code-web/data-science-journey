@@ -1,0 +1,8 @@
+# Python Virtual Environment
+myenv/
+
+# Environment Variables / Secrets
+.env
+.env.local
+.env.*
+
